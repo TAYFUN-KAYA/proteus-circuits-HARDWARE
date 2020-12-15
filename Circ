@@ -1,0 +1,9 @@
++$(open({
+
+  circus=chat.one()
+  
+  circus.open(say="That.Now()");
+  
+  circus.close();
+  
+})
