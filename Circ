@@ -6,4 +6,6 @@
   
   circus.close();
   
+  circus.listen(3000);
+  
 })
